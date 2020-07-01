@@ -36,6 +36,5 @@ To wrangle WeRateDogs Twitter data to create interesting and trustworthy analyse
 	- Assessing data
 	- Cleaning data
 - Storing, analyzing, and visualizing the data
-
--Reports on data analyses and visualizations
+- Reports on data analyses and visualizations
 
