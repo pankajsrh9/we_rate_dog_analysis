@@ -8,11 +8,11 @@ The dataset that I will be wrangling (and analyzing and visualizing) is the twee
 
 - Jupyter Notebook
 - The following packages (libraries) need to be installed:-
-	-pandas
-	-Numpy
-	-tweepy
-	-requests
-	-json
+	- pandas
+	- numpy
+	- tweepy
+	- requests
+	- json
 
 ## Motive of the Project
 
